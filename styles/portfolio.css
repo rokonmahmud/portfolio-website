@@ -8,6 +8,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 100px;
 
 }
 .nav-title{
@@ -45,4 +46,20 @@ nav{
     border-radius: 5px;
     font-size: 20px;
 
+ }
+
+ /* header related css */
+ .header{
+   
+
+ }
+ .banner{
+     padding:30px 30px 30px 150px;
+     display: flex;
+     align-items: center;
+     
+ }
+ .banner .profile-image{
+    width: 500px;
+    height: 500px;
  }
