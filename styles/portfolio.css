@@ -1,0 +1,48 @@
+/* commo shared */
+*{
+    font-family: 'lato',sans-serif;
+    font-family: 'open sans' sans-serif;
+}
+/* nav related styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.nav-title{
+    color: #181818;
+    font-family: Open Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+ }
+ .text-primary{
+     color: #FD6E0A;
+ }
+ nav > ul{
+     display: flex;
+     align-items: center;
+ }
+ nav li{
+     list-style: none;
+     margin-right: 50px;
+
+ }
+ nav a{
+     text-decoration: none;
+     color: #474747;
+     
+ }
+ .btn-primary{
+    color: white;
+    background-color:#FD6E0A;
+    border: none;
+    width: 150px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    font-size: 20px;
+
+ }
