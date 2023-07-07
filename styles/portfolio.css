@@ -107,3 +107,9 @@ margin-bottom: 5px;
     background: #FFF8F3;
     margin: 130px;
 }
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 50px;
+}
