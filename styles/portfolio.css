@@ -150,3 +150,54 @@ margin-bottom: 5px;
     font-weight: 700;
     line-height: normal;
 }
+.resume-column-title{
+    color:#474747);
+    font-family: Open Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.resume-title{
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.sub-title{
+    color: #191919;
+    font-family: Open Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.another-sub-title{
+    color: #757575;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 600;
+}
+.column-description{
+    color: #757575;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    width: 511px;
+
+}
+.resume-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 277px;
+    gap: 50px;
+}
+.download-cv-btn{
+    margin-top: 30px;
+    text-align: center;
+}
